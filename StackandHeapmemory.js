@@ -85,6 +85,7 @@ const anotherstring= gamename.slice(-2,3)
 
 console.log(anotherstring);
 
+console.log("anotherstring");
 
 
 
